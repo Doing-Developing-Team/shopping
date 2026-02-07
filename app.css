@@ -17026,16 +17026,16 @@ input[type="radio"].sr-only:checked ~ div.s-wallet-table-tbody-tr a {
 }
 :root {
   --font-main: "PingARLT";
-  --infinte-color: #c9c9c9;
+  /* --infinte-color: #c9c9c9;
   --main-text-color: #231f1e;
   --main-text-color-dark: #2b2d34;
   --color-primary: #e99702;
   --color-primary-dark: #c37100;
   --color-primary-light: #ffbd28;
-  --color-primary-reverse: #6a1800;
+  --color-primary-reverse: #6a1800; */
   --border-radius: 8px;
   --border-radius-upto-5: 5px;
-  --color-text: #7c8082;
+  /* --color-text: #7c8082; */
   --bg-gray: rgba(198, 199, 206, 0.10196);
   --color-grey: #f5f7f9;
   --color-light-grey: #eeeeee;
